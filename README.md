@@ -1,20 +1,20 @@
 # Employee Data Management System
 
-A normalized (3NF) employee database system built with **MySQL** and **Python**, with **Excel/Power BI** dashboards for department-wise reporting and trend analysis.
+A normalised (3NF) employee database system built with **MySQL** and **Python**, with **Excel/Power BI** dashboards for department-wise reporting and trend analysis.
 
 ## Overview
 
-This project simulates a company's employee management workflow — from database design to CRUD operations to reporting. It was built to practice structured data modeling, SQL query writing, and turning raw data into business-ready insights.
+This project simulates a company's employee management workflow — from database design to CRUD operations to reporting. It was built to practice structured data modelling, SQL query writing, and turning raw data into business-ready insights.
 
 ## Tech Stack
 
-- **Database:** MySQL (3-table normalized schema, 3NF)
+- **Database:** MySQL (3-table normalised schema, 3NF)
 - **Backend:** Python (mysql-connector, CRUD operations)
 - **Reporting:** MS Excel (Pivot Tables, Dashboards), Power BI
 
 ## Database Design
 
-Three normalized tables:
+Three normalised tables:
 
 - `departments` — department name and location
 - `salaries` — base salary, bonus, pay grade
